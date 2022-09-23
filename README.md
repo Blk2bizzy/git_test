@@ -1,2 +1,4 @@
 # git_test
-testing repository
+
+My first Github repo!
+Hello World!
